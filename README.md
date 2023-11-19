@@ -1,1 +1,1 @@
-# TestareAutomata
+# Testare Automata
